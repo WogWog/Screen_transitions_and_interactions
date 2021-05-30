@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Project7_Homework
 //
-//  Created by Валерия Прокушева on 04.05.2021.
+//  Created by Соколов Михаил on 04.05.2021.
 //
 
 import UIKit
